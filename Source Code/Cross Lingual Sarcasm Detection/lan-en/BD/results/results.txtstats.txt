@@ -1,0 +1,12 @@
+***Test Results***
+Total Test Tweets	 6260
+Total Sarcastic Tweets present in test	3130
+Total Non Sarcastic Tweets present in test	3130
+Total tweets which were predicted as sarcastic	5565
+Total tweets which were predicted as non-sarcastic	695
+Sarcastic Tweets which were predicted correctly	2857
+
+***Final Results***
+Precision	0.513387241689
+Recall		0.912779552716
+F_score		0.657159286947

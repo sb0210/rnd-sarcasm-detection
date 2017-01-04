@@ -1,0 +1,4 @@
+Python programs for In lingual Sarcasm Detection. Implemented K- cross validation system.
+ Training for training the dataset.
+Testing for testing the dataset.
+Both files ask for location of folder of dataset.
